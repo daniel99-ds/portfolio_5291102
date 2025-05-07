@@ -1,7 +1,7 @@
-# Persönliches Portfolio – Daniel Schneider WK_1210 SS2025
+# Persönliches Portfolio – Daniel Schneider - daniel.schneider-2@mnd.thm.de - WK_1210 - SS2025
 
 ## Projektbeschreibung
-Es dient dazu, Bonuspunkte zum Ende des Semesters zu erwerben und gleichzeitig die im Praktikum und in der Vorlesung behandelten Inhalte mit Flutter praktisch zu vertiefen.
+Es dient dazu, Bonuspunkte zum Ende des Semesters zu erwerben und gleichzeitig in der Vorlesung behandelten Inhalte mit Flutter praktisch zu vertiefen.
 
 Ziel ist es, ein persönliches, digitales Portfolio in Form einer Flutter-App zu entwickeln, das meine Person, meinen bisherigen Werdegang sowie meine fachlichen und sozialen Kompetenzen übersichtlich darstellt.
 
