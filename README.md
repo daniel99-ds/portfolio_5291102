@@ -25,4 +25,3 @@ Mit diesem Projekt möchte ich die im Kurs erworbenen Kenntnisse festigen, anwen
 ## Git-Branching-Strategie
 
 Im Projekt wird mit einer klaren Git-Branching-Strategie gearbeitet, bei der neue Funktionen in separaten Feature-Branches entwickelt werden. Nach Fertigstellung werden diese Branches in den main-Branch zusammengeführt, um eine saubere und strukturierte Entwicklung sicherzustellen.
-
